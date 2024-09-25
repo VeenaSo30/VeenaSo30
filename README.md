@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Veena Solanki!
 
-<!--
-**VeenaSo30/VeenaSo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer specializing in the MERN stack. I love building scalable, user-friendly applications and continuously learning about the latest web technologies. Let's create something amazing together!
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Currently working as a Full Stack Developer at **CodeHive Technologies**
+- 🌱 Exploring new technologies and building cool projects
+- 🎓 MCA Graduate from SGSITS, Indore
+- 📊 Experienced in **React.js**, **Node.js**, **MongoDB**, **Azure AD**, and **Keycloak**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills
+- **Frontend**: React.js, HTML, CSS, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, Python
+- **Tools**: Git, Postman, Visual Studio Code, Yarn
+- **Database**: MongoDB
+- **DevOps**: Nginx, Docker
+- **Authentication**: Azure AD, Keycloak
+
+### 📫 Let's Connect!
+- 📧 Email: [veenaglsolanki@gmail.com](mailto:veenaglsolanki@gmail.com)
+- 💼 LinkedIn: [Veena Solanki](https://www.linkedin.com/in/veenaglsolanki)
+
+### ⚡ Fun Fact:
+When I'm not coding, I enjoy exploring new tech trends, solving puzzles, and binge-watching sci-fi shows!
