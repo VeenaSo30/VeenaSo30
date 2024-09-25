@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 
 ### 📫 Let's Connect!
 - 📧 Email: [veenaglsolanki@gmail.com](mailto:veenaglsolanki@gmail.com)
-- 💼 LinkedIn: [Veena Solanki](https://www.linkedin.com/in/veenaglsolanki)
+- 💼 LinkedIn: [Veena Solanki](https://www.linkedin.com/in/veena-s-733250203/)
 
 ### ⚡ Fun Fact:
 When I'm not coding, I enjoy exploring new tech trends, solving puzzles, and binge-watching sci-fi shows!
