@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Veena Solanki!
+# Hi there 👋, I'm Veena!
 
 I'm a passionate Full Stack Developer specializing in the MERN stack. I love building scalable, user-friendly applications and continuously learning about the latest web technologies. Let's create something amazing together!
 
